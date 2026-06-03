@@ -1,0 +1,30 @@
+{
+  "RESULT": {
+    "OIL": [
+      {
+        "UNI_ID": "A0010001",
+        "OS_NM": "GS칼텍스 둔산점",
+        "POLL_DIV_CD": "GSC",
+        "PRICE": 1623.0,
+        "GIS_X_COOR": "344951.2",
+        "GIS_Y_COOR": "416812.4"
+      },
+      {
+        "UNI_ID": "A0010002",
+        "OS_NM": "SK에너지 갈마점",
+        "POLL_DIV_CD": "SKE",
+        "PRICE": 1641.0,
+        "GIS_X_COOR": "344728.7",
+        "GIS_Y_COOR": "417102.3"
+      },
+      {
+        "UNI_ID": "A0010003",
+        "OS_NM": "HD현대오일 갈마점",
+        "POLL_DIV_CD": "HDO",
+        "PRICE": 1623.0,
+        "GIS_X_COOR": "345443.9",
+        "GIS_Y_COOR": "416653.9"
+      }
+    ]
+  }
+}

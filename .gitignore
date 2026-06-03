@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+
+# Secrets
+.env
+*.local
+
+# DB
+*.db
+oilradar.db
+
+# Node / Next.js (frontend, 추후)
+node_modules/
+.next/
+out/
+
+# OS / editor
+.DS_Store
+.idea/
+
+# 참고용 디자인 시스템 저장소(자체 .git 보유 → 임베드 방지)
+montage-web/
